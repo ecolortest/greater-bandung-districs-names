@@ -1,9 +1,9 @@
-available: false
+available: true
 id: 1
 mainset:
 - names:
   - name: Bandung
     probability: 1
 name: 'New Townname #1'
-source: ''
+source: null
 subsets: []
