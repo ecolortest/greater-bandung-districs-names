@@ -4,6 +4,136 @@ mainset:
 - names:
   - name: Bandung
     probability: 1
+  - name: Cimahi
+    probability: 1
+  - name: Soreang
+    probability: 1
+  - name: Ciwidey
+    probability: 1
+  - name: Lembang
+    probability: 1
+  - name: Sukajadi
+    probability: 1
+  - name: Dewarti
+    probability: 1
+  - name: Padalarang
+    probability: 1
+  - name: Antapani
+    probability: 1
+  - name: Holis
+    probability: 1
+  - name: Cibiru
+    probability: 1
+  - name: Kiaracondong
+    probability: 1
+  - name: Ciwastra
+    probability: 1
+  - name: Dago
+    probability: 1
+  - name: Cibiru
+    probability: 1
+  - name: Gedebage
+    probability: 1
+  - name: Rancaekek
+    probability: 1
+  - name: Kopo
+    probability: 1
+  - name: Pasir Koja
+    probability: 1
+  - name: Cicaheum
+    probability: 1
+  - name: Katamso
+    probability: 1
+  - name: Batununggal
+    probability: 1
+  - name: Buah Batu
+    probability: 1
+  - name: Andir
+    probability: 1
+  - name: Caringin
+    probability: 1
+  - name: Cibolerang
+    probability: 1
+  - name: Cibaduyut
+    probability: 1
+  - name: Cileunyi
+    probability: 1
+  - name: Sapan
+    probability: 1
+  - name: Margaasih
+    probability: 1
+  - name: Cimindi
+    probability: 1
+  - name: Cibadak
+    probability: 1
+  - name: Pasir Kaliki
+    probability: 1
+  - name: Tamansari
+    probability: 1
+  - name: Siliwangi
+    probability: 1
+  - name: Cipaganti
+    probability: 1
+  - name: Bojongsoang
+    probability: 1
+  - name: Ciparay
+    probability: 1
+  - name: Babakanciparay
+    probability: 1
+  - name: Nagreg
+    probability: 1
+  - name: Cicalengka
+    probability: 1
+  - name: Cisaura
+    probability: 1
+  - name: Baros
+    probability: 1
+  - name: Cikudapateuh
+    probability: 1
+  - name: Pajajaran
+    probability: 1
+  - name: Setiabudi
+    probability: 1
+  - name: Gegerkalong
+    probability: 1
+  - name: Cikutra
+    probability: 1
+  - name: Cimuncang
+    probability: 1
+  - name: Padasuka
+    probability: 1
+  - name: Braga
+    probability: 1
+  - name: Kebon Jati
+    probability: 1
+  - name: Ciroyom
+    probability: 1
+  - name: Palasari
+    probability: 1
+  - name: Lodaya
+    probability: 1
+  - name: Ancol
+    probability: 1
+  - name: Tegalega
+    probability: 1
+  - name: Jamika
+    probability: 1
+  - name: Rancaekek
+    probability: 1
+  - name: Haurpugur
+    probability: 1
+  - name: Cimekar
+    probability: 1
+  - name: Margaasih
+    probability: 1
+  - name: Cigondewah
+    probability: 1
+  - name: Kordon
+    probability: 1
+  - name: Banjaran
+    probability: 1
+  - name: Husein
+    probability: 1
 name: 'New Townname #1'
 source: null
 subsets: []
