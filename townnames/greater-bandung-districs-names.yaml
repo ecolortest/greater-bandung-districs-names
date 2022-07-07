@@ -134,6 +134,14 @@ mainset:
     probability: 1
   - name: Husein
     probability: 1
+  - name: Ancamanik
+    probability: 1
+  - name: Jatinangor
+    probability: 1
+  - name: Cibeureum
+    probability: 1
+  - name: Kosambi
+    probability: 1
 name: Greater Bandung Districs Names
 source: null
 subsets: []

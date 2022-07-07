@@ -1,7 +1,7 @@
 description: Empty TrueGRF project
-grfid: TRU1
+grfid: f2fa1105
 license: CC0-1.0
 name: Greater Bandung Districs Names
 type: townname
 url: https://github.com/ecolortest/greater-bandung-districs-names
-version: 5
+version: 6
