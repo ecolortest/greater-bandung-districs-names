@@ -14,7 +14,7 @@ mainset:
     probability: 1
   - name: Sukajadi
     probability: 1
-  - name: Dewarti
+  - name: Derwati
     probability: 1
   - name: Padalarang
     probability: 1
@@ -78,13 +78,13 @@ mainset:
     probability: 1
   - name: Ciparay
     probability: 1
-  - name: Babakanciparay
+  - name: Babakan Ciparay
     probability: 1
   - name: Nagreg
     probability: 1
   - name: Cicalengka
     probability: 1
-  - name: Cisaura
+  - name: Cisarua
     probability: 1
   - name: Baros
     probability: 1
@@ -134,7 +134,7 @@ mainset:
     probability: 1
   - name: Husein
     probability: 1
-  - name: Ancamanik
+  - name: Arcamanik
     probability: 1
   - name: Jatinangor
     probability: 1
